@@ -99,7 +99,7 @@ greetings()
 def arg_greetings(name):
     """
     this is greeting function with argument
-    :param name:
+    :param name:l
     :return:
     """
     print("hello {}".format(name))
@@ -107,6 +107,7 @@ def arg_greetings(name):
 arg_greetings(name="Nilam")
 
 def arg_return_greetings(name):
+
     """
     This is greeting function with arguments and return greeting message
 
